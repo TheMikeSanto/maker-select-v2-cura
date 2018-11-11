@@ -2,6 +2,7 @@
 If you are like me and can't use the version of Cura included with the Maker Select because you use a Mac, or if you simply don't have the contents of the included SD card, you can use the profile included in this repo. Simply import `maker_select_v2_cura_1504.profile.ini` into [Octoprint](https://octoprint.org), or any other slicer that accepts Cura `ini` files, and you should be ready to print.
 
 The settings below are intended for printing with PLA and are included in the profile. All units are in millimeters unless otherwise noted.
+
 | Setting name | Value |
 |---|---|
 |Layer height|0.2|
